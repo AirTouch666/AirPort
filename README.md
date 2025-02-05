@@ -1,9 +1,9 @@
 # 2024机场网站推荐
-## 1.[性价比] 性价比机场
+## （挂了）1.[性价比] 性价比机场
 
 **[链接直达]**: [性价比机场](https://xn--6nq44r2uh9rhj7f.net/#/register?code=4lxziVR0) **一元 100G** **节点 20 个左右 速度很快** **解锁流媒体**
 
-## 2. 推荐！[自用][性价比] 流萤云
+## （挂了）2. 推荐！[自用][性价比] 流萤云
 
 [链接直达]: [流莹云](https://panel.lyun.pro/#/register?code=xlu5Wqhq) 一个月 88G 6.6
 
@@ -25,7 +25,7 @@
 
 官网直达：[冲浪猫](https://clma.lol/#/register?code=MCC8FCzw) **一个月 15 200GB** **节点 100 左右 速度 ++** **解锁流媒体**
 
-## 5. 推荐！[性价比] 两元店机场
+## （挂了）5. 推荐！[性价比] 两元店机场
 
 链接直达: [两元店](https://liangyuandian.cc/#/register?code=Z8TNWI19)
 
@@ -37,7 +37,7 @@
 
 **节点 ++ 速度 ++**
 
-## 6. 推荐！私房菜机场
+## （挂了）6. 推荐！私房菜机场
 
 链接直达：[私房菜](https://online.cos.cat/ui/#/register?code=IjNhTGDN)
 
