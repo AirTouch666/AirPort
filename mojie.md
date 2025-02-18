@@ -1,4 +1,6 @@
-# 机场网站推荐——魔戒机场
+# 翻墙机场网站推荐——魔戒机场
+
+原文见 https://blog.airtouch.top/mojie/
 
 [点击访问魔戒机场](https://mojie.co/register?aff=yl4iTaLf)
 
