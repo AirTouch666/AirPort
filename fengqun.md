@@ -1,15 +1,6 @@
----
-title: 2025稳定机场网站推荐——蜂群vpn机场
-tags: [翻墙,梯子]
-categories: [机场网站]
-comments: true
-katex: true
-date: 2025-02-18 20:17:48
----
+# 稳定翻墙机场网站推荐——蜂群vpn机场
 
-蜂群 vpn 机场，中转直连双千兆线路，全球几十个国家地区节点，不限制同时现在线设备数量，专线千兆下行速率 解锁gpt，奈飞，YouTube4k，TikTok，DMM 等所有流媒体   
-
-<!-- more -->
+原文见 https://blog.airtouch.top/fengqun/
 
 ## 简介
 
