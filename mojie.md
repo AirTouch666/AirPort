@@ -1,10 +1,6 @@
-# 翻墙机场网站推荐——魔戒机场
+# 魔戒机场怎么样
 
-原文见 https://blog.airtouch.top/mojie/
-
-[点击访问魔戒机场](https://mojie.co/register?aff=yl4iTaLf)
-
-[点击访问魔戒机场(备用)](https://mojie.app/register?aff=yl4iTaLf)
+原文见 https://www.xsl.im/fq/mojie/
 
 ## 简介
 
@@ -19,13 +15,25 @@
 + 60+节点，30多个国家。
 + 支持支付宝和USDT
 
-[点击访问魔戒机场](https://mojie.co/register?aff=yl4iTaLf)
-
-[点击访问魔戒机场(备用)](https://mojie.app/register?aff=yl4iTaLf)
+[魔戒机场直达](https://mojie.host/register?aff=yl4iTaLf)
+[魔戒机场直达（备用）](https://mojie.app/register?aff=yl4iTaLf)
 
 ## 价格
 
 魔戒机场只有流量套餐，没有倍率，无过期时间，最低1块起。可以看一下各个套餐的价格和单价，买的越多单价越便宜，但这个还是先从小套餐尝试起。
+
+| 流量套餐 | 价格   | 单价       |
+| -------- | ------ | ---------- |
+| 2GB      | ￥1    | ￥0.5/GB   |
+| 130GB    | ￥14.9 | ￥0.115/GB |
+| 420GB    | ￥42   | ￥0.1/GB   |
+| 750GB    | ￥69   | ￥0.092/GB |
+| 1660GB   | ￥138  | ￥0.083/GB |
+| 3600GB   | ￥279  | ￥0.078/GB |
+| 10TB     | ￥688  | ￥0.067/GB |
+
+[魔戒机场直达](https://mojie.host/register?aff=yl4iTaLf)
+[魔戒机场直达（备用）](https://mojie.app/register?aff=yl4iTaLf)
 
 ## 速度测试
 
@@ -33,6 +41,5 @@
 
 另外PC端的DNS经常会被劫持，建议将系统DNS设置为 223.5.5.5 （阿里云公共DNS） 或者119.29.29.29（腾讯云DNS） 也可以换成 8.8.8.8（谷歌DNS）。
 
-[点击访问魔戒机场](https://mojie.co/register?aff=yl4iTaLf)
-
-[点击访问魔戒机场(备用)](https://mojie.app/register?aff=yl4iTaLf)
+[魔戒机场直达](https://mojie.host/register?aff=yl4iTaLf)
+[魔戒机场直达（备用）](https://mojie.app/register?aff=yl4iTaLf)
