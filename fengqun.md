@@ -1,6 +1,6 @@
-# 稳定翻墙机场网站推荐——蜂群vpn机场
+# 蜂群机场怎么样？
 
-原文见 https://blog.airtouch.top/fengqun/
+原文见 https://www.xsl.im/fq/fengqun/
 
 ## 简介
 
@@ -12,13 +12,11 @@
 
 + 不限制访问设备，不限制访问速率，全球几十个国家高速中转节点，多层线路优化
 
-[蜂群VPN机场直达](https://fq-top-v-fast.com/#/register?code=C6P9IKLM)
-
-[蜂群VPN机场直达（备用）](https://fengqun.top/#/register?code=C6P9IKLM)
+[蜂群机场直达](https://fengqunsoft.com/#/register?code=C6P9IKLM)
 
 ## 价格
 
-## 按周期
+### 按周期
 
 | 价格（每月） | 流量            |
 | ------------ | --------------- |
@@ -28,7 +26,7 @@
 | 45           | 1040G           |
 | 198          | 5000G（企业级） |
 
-## 按流量（推荐）
+### 按流量（推荐）
 
 | 价格 | 流量  |
 | ---- | ----- |
@@ -37,16 +35,10 @@
 | 358  | 1000G |
 | 658  | 3000G |
 
-[蜂群VPN机场直达](https://fq-top-v-fast.com/#/register?code=C6P9IKLM)
-
-[蜂群VPN机场直达（备用）](https://fengqun.top/#/register?code=C6P9IKLM)
+[蜂群机场直达](https://fengqunsoft.com/#/register?code=C6P9IKLM)
 
 ## 测速
 
 **深港+广港+沪日三条IEPL专线，单个节点8个千兆入口中转，全网唯一**
 
-<img src="https://blog.airtouch.top/fengqun/470683790_122157131714282583_9170850393930660983_n.jpg" alt="470683790_122157131714282583_9170850393930660983_n" style="zoom:50%;" />
-
-[蜂群VPN机场直达](https://fq-top-v-fast.com/#/register?code=C6P9IKLM)
-
-[蜂群VPN机场直达（备用）](https://fengqun.top/#/register?code=C6P9IKLM)
+[蜂群机场直达](https://fengqunsoft.com/#/register?code=C6P9IKLM)
