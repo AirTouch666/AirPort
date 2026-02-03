@@ -134,7 +134,7 @@ WgetCloud（原GaCloud） 全球加速是一家成立于 2021 年的机场，提
 
 点击访问 ↓
 
-[Wgetcloud](https://invite.wgetcloud.ltd/auth/register?code=tPxloW)
+[Wgetcloud](https://invite.wgetcloud.ltd/auth/register?code=UW4lVh)
 
 ## 肥猫云
 
