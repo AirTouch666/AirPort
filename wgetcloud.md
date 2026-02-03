@@ -13,7 +13,7 @@ WgetCloud 全球加速（原 GaCloud）是一款主打高端稳定翻墙线路�
 - 支持支付宝、微信、USDT支付。
 - WgetCloud机场支持SS/SSR、V2ray、Trojan协议，以及Windows、Mac、iOS、Android、Linux全平台，还能刷路由器。
 
-[Wgetcloud机场直达](https://invite.wgetcloud.ltd/auth/register?code=tPxloW)
+[Wgetcloud机场直达](https://invite.wgetcloud.ltd/auth/register?code=UW4lVh)
 
 
 ## 价格
@@ -34,4 +34,4 @@ WgetCloud 机场的套餐分为三档：基础专线、优质专线和精品专�
 
 然后Wgetcloud有个特点是购买的时候可以定制需要上网的设备数和流量的。注意，这里的 IP 数是指公网数，例如你家里是连的同一个WiFi，哪怕很多台设备也只算一个 IP 的。所以不要误会了导致多买了。
 
-[Wgetcloud机场直达](https://invite.wgetcloud.ltd/auth/register?code=tPxloW)
+[Wgetcloud机场直达](https://invite.wgetcloud.ltd/auth/register?code=UW4lVh)
